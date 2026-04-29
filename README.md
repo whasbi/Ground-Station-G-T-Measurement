@@ -182,8 +182,14 @@ Treat the following as estimate-only unless explicitly approved:
 
 This project is licensed under the MIT License. See `LICENSE`.
 
-## Citation / credit
+## Credit
 
 If you use, modify, or redistribute this software, keep the credit and license notice:
 
     Developed by Wahyudi Hasbi | Licensed under the MIT License
+
+## Citation
+
+If you use this software in academic work, reports, or publications, please cite:
+
+Wahyudi Hasbi. (2026). Ground Station G/T Measurement. Zenodo. https://doi.org/10.5281/zenodo.19879798
