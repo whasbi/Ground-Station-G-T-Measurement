@@ -1,5 +1,5 @@
 """
-Satellite G/T Measurement
+Ground Station G/T Measurement
 Windows-compatible Tkinter application.
 
 Developed by Wahyudi Hasbi.
@@ -327,7 +327,7 @@ SOFTWARE."""
         return """G/T AUDIT SUITE - FAQ AND USER GUIDELINES
 
 PURPOSE
-This software calculates satellite receive-system G/T using a Sun / cold-sky measurement. It is designed for academic auditability, so the report shows data source, assumptions, constants, formulas, warnings, and direct inputs to the final equation.
+This software calculates satellite Ground Station G/T using a Sun / cold-sky measurement. It is designed for academic auditability, so the report shows data source, assumptions, constants, formulas, warnings, and direct inputs to the final equation.
 
 SOFTWARE CREDIT AND LICENSE
 Developed by Wahyudi Hasbi.
