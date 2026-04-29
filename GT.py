@@ -238,9 +238,9 @@ SOFTWARE."""
         manual_frame.pack(fill="x", padx=20, pady=(8, 0))
         self.manual_entries = {}
         manual_fields = [
-            ("Manual Flux Frequency 1", "mf1", "MHz", "4995"),
+            ("Manual Flux Frequency 1", "mf1", "MHz", "Lowest Freq Near Ops Freq"),
             ("Manual Flux 1", "ms1", "SFU", ""),
-            ("Manual Flux Frequency 2", "mf2", "MHz", "8800"),
+            ("Manual Flux Frequency 2", "mf2", "MHz", "Higher Freq Near Ops Freq"),
             ("Manual Flux 2", "ms2", "SFU", ""),
             ("Manual Data Date/ID", "mdate", "text", "Manual input"),
             ("Manual Source Note", "mnote", "text", "User-supplied solar flux values"),
