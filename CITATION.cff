@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Ground Station G/T Measurement"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Hasbi"
+    given-names: "Wahyudi"
+repository-code: "https://github.com/whasbi/Ground-Station-G-T-Measurement"
+url: "https://github.com/whasbi/Ground-Station-G-T-Measurement"
+doi: "10.5281/zenodo.19879798"
+date-released: "2026-04-29"
+license: "MIT"
