@@ -192,4 +192,4 @@ If you use, modify, or redistribute this software, keep the credit and license n
 
 If you use this software in academic work, reports, or publications, please cite:
 
-Wahyudi Hasbi. (2026). Ground Station G/T Measurement. Zenodo. https://doi.org/10.5281/zenodo.19879798
+    Wahyudi Hasbi. (2026). Ground Station G/T Measurement. Zenodo. https://doi.org/10.5281/zenodo.19879798
