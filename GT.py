@@ -190,8 +190,8 @@ SOFTWARE."""
         fields = [
             ("Ground Station Latitude", "lat", "degrees", ""),
             ("Ground Station Longitude", "lon", "degrees", ""),
-            ("Operating Frequency", "freq", "MHz", "8200"),
-            ("Antenna HPBW", "bw", "degrees", "0.23"),
+            ("Operating Frequency", "freq", "MHz", ""),
+            ("Antenna HPBW", "bw", "degrees", ""),
             ("P_sun", "psun", "dBm", ""),
             ("P_csky", "pcsky", "dBm", ""),
             ("Solar Elevation Angle", "el", "degrees", ""),
