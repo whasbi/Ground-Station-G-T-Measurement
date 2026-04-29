@@ -1,4 +1,5 @@
 # Ground Station G/T Measurement Software
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19879798.svg)](https://doi.org/10.5281/zenodo.19879798)
 
 Developed by **Wahyudi Hasbi**  
 Licensed under the **MIT License**
