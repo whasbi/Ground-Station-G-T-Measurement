@@ -2,6 +2,7 @@
 Ground Station G/T Measurement
 Windows-compatible Tkinter application.
 
+DOI: 10.5281/zenodo.19879798
 Developed by Wahyudi Hasbi.
 License: MIT License.
 
@@ -68,7 +69,7 @@ except Exception:
 class GTStationApp:
     DEVELOPER_NAME = "Wahyudi Hasbi"
     LICENSE_NAME = "MIT License"
-    LICENSE_FOOTER_TEXT = "Developed by Wahyudi Hasbi | Licensed under the MIT License"
+    LICENSE_FOOTER_TEXT = "Developed by Wahyudi Hasbi | MIT License | DOI: 10.5281/zenodo.19879798"
     COPYRIGHT_TEXT = "Copyright (c) 2026 Wahyudi Hasbi"
     MIT_LICENSE_TEXT = """MIT License
 
@@ -330,7 +331,7 @@ PURPOSE
 This software calculates satellite Ground Station G/T using a Sun / cold-sky measurement. It is designed for academic auditability, so the report shows data source, assumptions, constants, formulas, warnings, and direct inputs to the final equation.
 
 SOFTWARE CREDIT AND LICENSE
-Developed by Wahyudi Hasbi.
+Developed by Wahyudi Hasbi | DOI: 10.5281/zenodo.19879798
 Released under the MIT License. Keep this credit and license notice in reports and redistributed copies of the software.
 
 QUICK WORKFLOW
